@@ -77,22 +77,15 @@
               </template>
             </card>
           </div>
-
           <div class="row">
-            <div class="col-md-8 ml-auto mr-auto text-center">
-              <h2 class="Special-title text-center text-warning">Confidential Anonymous Reporting</h2>
+            <div class="col-md-8 col-sm-4 ml-auto mr-auto text-center">
+              <h2 class="Special-title text-warning">Confidential Anonymous Reporting</h2>
               <h4>If you suspect something and want to make a report, but want to identify yourself, click on the tab below and provide as much information as possible, and we guarantee your identity wil be kept 100% anonymous</h4>
-              <div class="col-md-12">
-<!--            <n-button type="danger" block round>-->
-<!--              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="float:left;margin-left:60px;margin-top:5px;align-items:center;" aria-hidden="true" role="img" width="3.5em" height="3.5em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 64 64"><rect x="0" y="0" width="64" height="64" fill="none" stroke="none" /><path d="M32 7C15.434 7 2 24.271 2 30.232s13.434 23.232 30 23.232c4.615 0 8.985-1.343 12.892-3.405L55.58 57V41.686c4.017-4.4 6.42-8.935 6.42-11.454C62 24.271 48.568 7 32 7zm0 38.384c-8.283 0-15-6.784-15-15.151c0-8.369 6.717-15.151 15-15.151c8.285 0 15 6.782 15 15.151c0 8.367-6.715 15.151-15 15.151z" fill="currentColor"/><path d="M32 21.142c-.975 0-1.911.161-2.79.45A5.038 5.038 0 0 1 31 25.435c0 2.788-2.238 5.05-5 5.05a4.925 4.925 0 0 1-2.963-1.002a9.755 9.755 0 0 0-.037.749c0 5.02 4.029 9.091 9 9.091s9-4.071 9-9.091c0-5.021-4.029-9.09-9-9.09" fill="currentColor"/></svg>-->
-<!--             <h2 class="align-center justify-content-center">Anonymous Report</h2>  -->
-<!--              </n-button>-->
-                <button data-tf-slider="B3M6PQ3n" data-tf-width="700" data-tf-auto-close style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#0445AF;color:#FFFFFF;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:64px;width:600px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Anonymous Report</button><script src="//embed.typeform.com/next/embed.js"></script>
-
+              <button data-tf-slider="B3M6PQ3n" data-tf-width="500" data-tf-auto-close style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#FFB236;color:#FFFFFF;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:64px;width:600px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Anonymous Report</button><script src="//embed.typeform.com/next/embed.js"></script>
             </div>
-            </div>
-
           </div>
+
+
 
             
           </div>
@@ -499,25 +492,45 @@
 
   </div>
   </div>
-  
-  <div class="row row-cols-3 bg-dark">
-  <div class="col-md-4 text-white my-3">
-    National Network to End Child Abuse<br/>
-    86 - 90 Paul Street London,<br/>
-    EC2A 4NE <br/>
-    T: 0330 111 2869<br/>
-    E: Help@nneca.org.uk
-    </div>
-  <div class="col-md-4 my-3 py-3">
-    <div class="container logo">
-      <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1628164405/image/rough_NNECA_logo_avzeld.png" alt="logo">
-    </div>
-    <p class="text-center">Copyright 2021 NNECA</p>
-  </div>
-  <div class="col-md-4">Column</div>
-  
-</div>
-            
+      <div class="container-fluid pb-0 mb-0 justify-content-center text-light ">
+        <footer>
+          <div class="row my-5 justify-content-center py-5">
+            <div class="col-11">
+              <div class="row ">
+                <div class="col-xl-4 col-md-4 col-sm-12 col-12 my-auto mx-auto ">
+                  <h6 class="text-muted mb-md-0 mb-5 bold-text">
+                    National Network to End Child Abuse<br/><br/>
+                    86 - 90 Paul Street London,<br/>
+                    EC2A 4NE <br/>
+                    T: 0330 111 2869<br/>
+                    E: Help@nneca.org.uk</h6>
+                </div>
+                <div class="col-xl-4 col-md-4 col-sm-12 col-12 ">
+                  <div class="container logo mb-3 mb-lg-4 mr-sm-5 pl-sm-4">
+                    <img src="https://res.cloudinary.com/dgsljij3o/image/upload/v1628164405/image/rough_NNECA_logo_avzeld.png" alt="logo">
+                  </div>
+                  <h5 class="mb-3 mb-lg-4 text-muted bold-text mt-sm-0 mt-5 ml-sm-2 text-center">
+                    Copyright 2021 NNECA
+                  </h5>
+
+                </div>
+                <div class="col-xl-4 col-md-4 col-sm-12 col-12">
+                  <h6 class="text-muted mb-md-0 mb-5 bold-text ml-sm-5 pt-4 pl-sm-4">
+                    Child Abuse Help is a project of the <br/>
+                    National Network to End Child Abuse.
+                    <br/>
+                    A Registered Charity <br/>
+                    No 1161630 www.nneca.org.uk <br/>
+                    PRIVACY POLICY
+                  </h6>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </footer>
+      </div>
+
     </div>
     </div>
 
@@ -558,6 +571,8 @@ export default {
 };
 </script>
 <style scoped>
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
 .page-header {
 	background-image: url("https://res.cloudinary.com/dgsljij3o/image/upload/v1627538769/NEWGIRL_mu7pmz.png");
 	background-attachment: fixed;
@@ -582,4 +597,53 @@ export default {
 	align-items: center;
 	padding-bottom: 30px;
 }
+.container-fluid {
+  overflow: hidden;
+  margin-top: 250px;
+  background: #262626;
+  color: #627482 !important;
+  margin-bottom: 0;
+  padding-bottom: 0
+}
+
+body {
+  background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
+  font-family: 'Rubik', sans-serif;
+  background: #455A64;
+  height: 100 !important
+}
+
+.container-fluid {
+  overflow: hidden;
+  margin-top: 250px;
+  background: #262626;
+  color: #627482 !important;
+  margin-bottom: 0;
+  padding-bottom: 0
+}
+
+small {
+  font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.bold-text {
+  color: #989c9e !important
+}
+
+.mt-55 {
+  margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+h3 {
+  font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.social {
+  font-size: 21px !important
+}
+
+.rights {
+  font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
 </style>
